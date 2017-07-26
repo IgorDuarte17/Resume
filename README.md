@@ -66,11 +66,12 @@ Manutenção e correção de bugs ao sistema interno de help desk.
 > Cursando 8º Semestre
 
 **ULBRA/ILULBRA** - Curso de Lingua Inglesa 
-> Cursando Nível VI
+> Cursando Nível VII
 
 ## Cursos
 - SCRUM - TreinaWeb
 - PHP Padrões de Projetos - TreinaWeb
+- Banco de Dados e Linguagem SQL - UNISINOS
 - CodeIgniter Framework - TreinaWeb
 - Desenvolvedor WEB com Java - Sisnema Informática
 - Students to Business - Banco de Dados (SQL Server) - PUCRS
