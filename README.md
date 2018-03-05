@@ -50,6 +50,10 @@ Nas horas livres, curto assistir um seriado ou jogar um game!!
 - Facilidade e disposição para aprender o que não estiver nessa lista! :)
 
 ## Experiências
+**PAC Administração de Créditos** - Desenvolvedor Web
+> Responsável pelo desenvolvimento de novas funcionalidades e novos módulos do sistema de crédito consignado.  
+Responsável pela implementação de versionamento de código utilizando Git e GitLab e integração contínua com Jenkins.
+
 **Grubo RBS** - Desenvolvedor Web
 > Atuação no desenvolvimento de análises e arquiteturas para sistemas.
 Desenvolvimento de soluções web que sejam criativas e alinhadas com as necessidades, utilizando tecnologias do mercado.
@@ -140,3 +144,7 @@ Manutenção e correção de bugs ao sistema interno de help desk.
 >   - Testes Unitários  
 >   - Controle de versão com Git  
 >   - Desenvolvimento Ágil com Scrum e Kanban  
+
+
+[<img src="http://br.phptherightway.com/images/banners/sq-btn-125x125.png">](http://br.phptherightway.com/)
+[<img src="http://www.phprs.com.br/wp-content/uploads/2016/01/phprs_logo_pq.png">](https://www.meetup.com/pt-BR/PHP-RS/)
