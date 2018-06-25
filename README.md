@@ -17,6 +17,10 @@ Também gasto algum tempo estudando novas tecnologias.
 Nas horas livres, curto assistir um seriado ou jogar um game!!
 
 
+<a href="https://certificacao.imasters.com.br/certificates/1450">
+  <img src="https://certificacao.imasters.com.br/certificates/1450/email_seal" />
+</a>
+
 ## Stack
 - PHP
 - CodeIgniter Framework
