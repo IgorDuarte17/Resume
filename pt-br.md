@@ -177,16 +177,16 @@ utilizando diversar tecnologias do mercado como PHP/Laravel/Wordpress, C#.NET, J
 #### **NicaMigrator** - Grupo RBS
 > #### Software para migração de dados armazenados no sistema NICA.  
 > **Atuação**   
->   - Desenvolvimento do algoritmo para migração de dados do NICA.  
+>   - Desenvolvimento do algoritmo para migração de dados do NICA.
+>     
 > **Tecnologias envolvidas:**   
-> 
 >   - Back-end: C#.Net Framework 4.5, LINQ Framework
 >   - Banco de Dados: Oracle  
 >   - Testes Unitários  
 >   - Controle de versão com Git  
 >   - Desenvolvimento Ágil com Scrum e Kanban  
 
-  
+<hr>
 
 [<img src="http://br.phptherightway.com/images/banners/sq-btn-125x125.png">](http://br.phptherightway.com/)
 [<img src="http://www.phprs.com.br/wp-content/uploads/2016/01/phprs_logo_pq.png">](https://www.meetup.com/pt-BR/PHP-RS/)

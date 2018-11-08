@@ -187,7 +187,7 @@ using diverse technologies of the market like PHP / Laravel / Wordpress, C # .NE
 > - Version control with Git  
 > - Agile Development with Scrum and Kanban 
 
-  
+<hr>
 
 [<img src="http://br.phptherightway.com/images/banners/sq-btn-125x125.png">](http://br.phptherightway.com/)
 [<img src="http://www.phprs.com.br/wp-content/uploads/2016/01/phprs_logo_pq.png">](https://www.meetup.com/pt-BR/PHP-RS/)
