@@ -177,6 +177,7 @@ utilizando diversar tecnologias do mercado como PHP/Laravel/Wordpress, C#.NET, J
 #### **NicaMigrator** - Grupo RBS
 > #### Software para migração de dados armazenados no sistema NICA.  
 > **Atuação**   
+>   - Arquitetura do Sistema
 >   - Desenvolvimento do algoritmo para migração de dados do NICA.
 >     
 > **Tecnologias envolvidas:**   
