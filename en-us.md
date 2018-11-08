@@ -11,16 +11,16 @@
 Well, my name is Igor,
 I am a Full Stack Web Developer, attending the 8th semester of System Information at ULBRA University and a good nerd.
 
-I contribute to the community by writing some articles in [Medium](https://medium.com/@igorsantos17) and doing some talks and talks.  
-Enthusiast of PHP, active member of the community and one of the [PHPRS](https://www.meetup.com/pt-BR/PHP-RS/) coordinators.
+I contribute to the community by writing some articles in [Medium](https://medium.com/@igorsantos17) and doing some talks and enthusiast of PHP.  
+Active member of the community and one of the [PHPRS](https://www.meetup.com/pt-BR/PHP-RS/) coordinators.
 
-I have experience in the development and analysis of web solutions.
+I have experience in the architecture, development and analysis of web solutions.  
 I have worked on several projects using various technologies such as PHP, C # .NET and Node.js.  
-I have great flexibility in exchanging technologies and I understand them quickly, due to the high turnover of projects in which I participate.
+I have great flexibility in exchanging technologies and I understand them quickly, due to the high turnover of projects in which I participate.  
 As a good enthusiast of PHP I spend a lot of time studying about it and its tools.  
 
-I also spent some time studying new technologies.
-During free time, watch a show or play a game !!
+I also spent some time studying new technologies.  
+During free time, I like to watch a show or play a game !!
 
 
 <a href="https://certificacao.imasters.com.br/certificates/1450">
