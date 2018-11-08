@@ -112,74 +112,80 @@ using diverse technologies of the market like PHP / Laravel / Wordpress, C # .NE
 > - Development of new screens and new functionalities.  
 > - Development of new modules.
 > - Corrections and maintenance of errors.  
+
 > **Stack:**   
->   - Front-end: HTML5, CSS3, Bootstrap, JavaScript, jQuery  
->   - Back-end: PHP 5.6   
->   - Database: SQLServer  
->   - Version control with Git  
->   - Agile Development with Kanban
+> - Front-end: HTML5, CSS3, Bootstrap, JavaScript, jQuery  
+> - Back-end: PHP 5.6   
+> - Database: SQLServer  
+> - Version control with Git  
+> - Agile Development with Kanban
 
 #### **ScorIT** - Grupo RBS
 > #### System to control the allocation of hours and calls.   
 > **Acting**    
 > - Implementation of new functionalities.  
 > - Corrections and maintenance of errors.  
+
 > **Stack:**  
->   - Front-end: HTML5, CSS3, Bootstrap, JavaScript, jQuery  
->   - Back-end: C#, .Net Framework 4.5, Entity Framework  
->   - Database: SQLServer  
->   - Version control with Git  
->   - Agile Development with Scrum and Kanban
+> - Front-end: HTML5, CSS3, Bootstrap, JavaScript, jQuery  
+> - Back-end: C#, .Net Framework 4.5, Entity Framework  
+> - Database: SQLServer  
+> - Version control with Git  
+> - Agile Development with Scrum and Kanban
 
 #### **SACI - Interactive Content Access Systems** - Grupo RBS
 > #### System for storing interactive contents.
 > **Acting**   
 > - Development.  
 > - Tests.  
+
 > **Stack:**    
->   - Front-end: HTML5, CSS3, JavaScript, JQuery, Ajax  
->   - Back-end: PHP 5.6  
->   - Database: MySQL  
->   - Tests BDD  
->   - Version control with Git and Flyway for database  
->   - Agile Development with Scrum and Kanban
+> - Front-end: HTML5, CSS3, JavaScript, JQuery, Ajax  
+> - Back-end: PHP 5.6  
+> - Database: MySQL  
+> - Tests BDD  
+> - Version control with Git and Flyway for database  
+> - Agile Development with Scrum and Kanban
 
 #### **Demonstrative Sapore** - Grupo RBS
 > #### Demonstration system of help consumption in Sapore (restaurant, snack bar, etc).  
 > **Acting**   
 > - Development of the new methodology for processing the load of information to upload to the site.  
+
 > **Stack:**  
->   - Front-end: ASP.NET  
->   - Back-end: C#.Net Framework 4.5, LINQ Framework, WebServices (WCF, SOA)
->   - Database: MySQL  
->   - Unitary tests  
->   - Version control with Git  
->   - Agile Development with Scrum and Kanban 
+> - Front-end: ASP.NET  
+> - Back-end: C#.Net Framework 4.5, LINQ Framework, WebServices (WCF, SOA)
+> - Database: MySQL  
+> - Unitary tests  
+> - Version control with Git  
+> - Agile Development with Scrum and Kanban 
 
 #### **Medical records CAF** - Grupo RBS
 > #### EMED Medical History System.  
 > **Acting**  
 > - Development  
 > - Tests  
+
 > **Stack:**     
->   - Front-end: HTML5, CSS3, Bootstrap, JavaScript, Bower, Gulp  
->   - Back-end: JavaScript, AngularJS, Node.js, Express.js  
->   - Database: MySQL  
->   - Version control with Git   
->   - Agile Development with Scrum and Kanban   
->   - Docker and OpenShift  
+> - Front-end: HTML5, CSS3, Bootstrap, JavaScript, Bower, Gulp  
+> - Back-end: JavaScript, AngularJS, Node.js, Express.js  
+> - Database: MySQL  
+> - Version control with Git   
+> - Agile Development with Scrum and Kanban   
+> - Docker and OpenShift  
 
 #### **Nica Migrator** - Grupo RBS
 > #### Software for migrating data stored in the NICA system.  
 > **Acting**   
->   - System architecture  
->   - Development of the NICA algorithm for data migration.  
+> - System architecture  
+> - Development of the NICA algorithm for data migration.  
+>   
 > **Stack:**   
->   - Back-end: C#.Net Framework 4.5, LINQ Framework  
->   - Database: Oracle    
->   - Unitary tests    
->   - Version control with Git  
->   - Agile Development with Scrum and Kanban 
+> - Back-end: C#.Net Framework 4.5, LINQ Framework  
+> - Database: Oracle    
+> - Unitary tests    
+> - Version control with Git  
+> - Agile Development with Scrum and Kanban 
 
   
 

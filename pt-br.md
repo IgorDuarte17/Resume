@@ -112,6 +112,7 @@ utilizando diversar tecnologias do mercado como PHP/Laravel/Wordpress, C#.NET, J
 >   - Desenvolvimento de novas telas e de novas funcionalidades.
 >   - Desenvolvimento de novos módulos.  
 >   - Correções e manutenção de erros.  
+>   
 > **Tecnologias envolvidas:**   
 >   - Front-end: HTML5, CSS3, Bootstrap, JavaScript, jQuery  
 >   - Back-end: PHP 5.6 
@@ -124,30 +125,33 @@ utilizando diversar tecnologias do mercado como PHP/Laravel/Wordpress, C#.NET, J
 > **Atuação**  
 >   - Implementação de novas funcionalidades.  
 >   - Correções e manutenção de erros.  
+>   
 > **Tecnologias envolvidas:**  
 >   - Front-end: HTML5, CSS3, Bootstrap, JavaScript, jQuery  
 >   - Back-end: C#, .Net Framework 4.5, Entity Framework  
 >   - Banco de Dados: SQLServer  
 >   - Controle de versão com Git  
->   - Desenvolvimento Ágil com Kanban
+>   - Desenvolvimento Ágil com Scrum e Kanban
 
 #### **SACI - Sistemas de Acesso a Conteúdo Interativo** - Grupo RBS
 > #### Sistema para armazenamento de conteúdos interativos.  
-> **Atuação** 
+> **Atuação**   
 >   - Desenvolvimento.  
 >   - Testes.  
+>   
 > **Tecnologias envolvidas:**  
 >   - Front-end: HTML5, CSS3, JavaScript, JQuery, Ajax  
 >   - Back-end: PHP 5.6  
 >   - Banco de Dados: MySQL  
 >   - Testes BDD  
 >   - Controle de versão com Git e Flyway  
->   - Desenvolvimento Ágil com Kanban   
+>   - Desenvolvimento Ágil com Scrum e Kanban   
 
 #### **DemonstrativoSapore** - Grupo RBS
 > #### Sistema demonstrativo de consumo dos colaboradores na Sapore (restaurante, lancheria, etc).  
 > **Atuação**   
->   - Desenvolvimento da nova metodologia de processamento da carga de informações para carregar no site.  
+>   - Desenvolvimento da nova metodologia de processamento da carga de informações para carregar no site. 
+>    
 > **Tecnologias envolvidas:**  
 >   - Front-end: ASP.NET
 >   - Back-end: C#.Net Framework 4.5, LINQ Framework, WebServices (WCF, SOA) 
@@ -161,12 +165,13 @@ utilizando diversar tecnologias do mercado como PHP/Laravel/Wordpress, C#.NET, J
 > **Atuação**  
 >   - Desenvolvimento.  
 >   - Testes.  
+>   
 > **Tecnologias envolvidas:**   
 >   - Front-end: HTML5, CSS3, Bootstrap, JavaScript, Bower, Gulp  
 >   - Back-end: JavaScript, AngularJS, Node.js, Express.js  
 >   - Banco de Dados: MySQL  
 >   - Controle de versão com Git  
->   - Desenvolvimento Ágil com Kanban  
+>   - Desenvolvimento Ágil com Scrum e Kanban  
 >   - Docker e OpenShift  
 
 #### **NicaMigrator** - Grupo RBS
@@ -174,6 +179,7 @@ utilizando diversar tecnologias do mercado como PHP/Laravel/Wordpress, C#.NET, J
 > **Atuação**   
 >   - Desenvolvimento do algoritmo para migração de dados do NICA.  
 > **Tecnologias envolvidas:**   
+> 
 >   - Back-end: C#.Net Framework 4.5, LINQ Framework
 >   - Banco de Dados: Oracle  
 >   - Testes Unitários  
