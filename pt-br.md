@@ -6,7 +6,9 @@
 ![:](https://cdn0.iconfinder.com/data/icons/small-n-flat/24/678128-social-facebook-20.png) [facebook.com/IgoorSantoos17](https://www.facebook.com/IgoorSantoos17)  
 ![:](https://cdn1.iconfinder.com/data/icons/social-signature/512/Twitter_Color-20.png) [twitter.com/IgorSantoos17](https://www.twitter.com/IgorSantoos17)  
 ![:](https://cdn4.iconfinder.com/data/icons/ionicons/512/icon-social-github-20.png) [github.com/IgorSantos17](https://github.com/IgorSantos17)  
-![:](https://cdn4.iconfinder.com/data/icons/picons-social/57/53-medium-3-20.png) [medium.com/@igorsantos17](https://medium.com/@igorsantos17)
+![:](https://cdn4.iconfinder.com/data/icons/picons-social/57/53-medium-3-20.png) [medium.com/@igorsantos17](https://medium.com/@igorsantos17)  
+[speakerdeck.com/igorsantos](https://speakerdeck.com/igorsantos)
+
 
 ## Um Pouco Sobre Mim
 Bom, meu nome é Igor,  
