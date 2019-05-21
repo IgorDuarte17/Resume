@@ -12,17 +12,18 @@
 
 ## Um Pouco Sobre Mim
 Bom, meu nome é Igor,  
-sou Desenvolvedor Web Full Stack, cursando 8º semestre de Sistemas de Informação e um bom nerd.  
+sou Desenvolvedor PHP, cursando 8º semestre de Sistemas de Informação e um bom nerd.  
 Contribuo para a comunidade escrevendo alguns artigos no [Medium](https://medium.com/@igorsantos17) e realizando algumas palestras e talks.   
 Evangelista PHP, membro ativo da comunidade e um dos coordenadores do [PHPRS](https://www.meetup.com/pt-BR/PHP-RS/).      
 
-Possuo experiência no desenvolvimento e análises de soluções web.  
-Já atuei em vários projetos utilizando diversas tecnologias como PHP, C#.NET, Node.js.   
+
+Possuo experiência na análise, arquitetura e desenvolvimento de soluções web.  
+Já atuei em vários projetos utilizando diversas tecnologias como PHP, C#.NET e Node.js.  
+Especialista em PHP e toda sua stack de tecnologia.  
 Tenho grande flexibilidade em trocar de tecnologias e as compreendo rapidamente, devido a alta rotatividade de projetos em que participo.  
-Como bom estusiasta do PHP passo muito tempo estudando sobre ele e suas ferramentas.  
+Grande entusiasta de comunidades, eventos e inclusão social!  
 Também gasto algum tempo estudando novas tecnologias.  
 Nas horas livres, curto assistir um seriado ou jogar um game!!
-
 
 <a href="https://certificacao.imasters.com.br/certificates/1450">
   <img src="https://certificacao.imasters.com.br/certificates/1450/email_seal" />
