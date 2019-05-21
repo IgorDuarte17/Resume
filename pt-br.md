@@ -62,6 +62,14 @@ Nas horas livres, curto assistir um seriado ou jogar um game!!
 - Facilidade e disposição para aprender o que não estiver nessa lista! :)
 
 ## Experiências
+**Datum TI** - Desenvolvedor PHP Sênior
+> Responsável por decisões de engenharia e arquitetura em projetos que atuo.  
+> Atuando na Análise e Desenvolvimento de aplicações utilizando PHP, Laravel framework, Angular, entre outras tecnologias. 
+
+> Desenvolvimento focado na metodologia ágil SCRUM utilizando Kanban para gerenciar as atividades.   
+Aplicação de testes unitários nos projetos, controle de versão com Git+GitHub e integração contínua com Jenkins.
+
+
 **Navalha Digital** - Full Stack Web Developer
 > Responsável pela pesquisa e implementação de padrões arquiteturais e engenharia de software.   
 Atuando no desenvolvimento de sistemas Web utilizando Stack PHP.   
