@@ -121,11 +121,14 @@ utilizando diversar tecnologias do mercado como PHP/Laravel/Wordpress, C#.NET, J
 
 ## Alguns Projetos Legais
 
+#### [PHPRS](projetos/phprs.md) (2018 - 2019)
+#### [Datum TI](projetos/datum.md) (2019)
 #### [Navalha Digital](projetos/navalha.md) (2018 - 2019)  
 #### [PAC Administração de Créditos](projetos/pac.md) (2018)  
 #### [Grubo RBS](projetos/rbs.md) (2016 - 2018)  
 
 <hr>
 
-[<img src="http://br.phptherightway.com/images/banners/sq-btn-125x125.png">](http://br.phptherightway.com/)
-[<img src="http://www.phprs.com.br/wp-content/uploads/2016/01/phprs_logo_pq.png">](https://www.meetup.com/pt-BR/PHP-RS/)
+[<img src="http://br.phptherightway.com/images/banners/sq-btn-125x125.png">](http://br.phptherightway.com/)  
+
+[<img src="https://www.phprs.com.br/img/logo.png">](https://www.meetup.com/pt-BR/PHP-RS/)
