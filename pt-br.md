@@ -12,9 +12,9 @@
 
 ## Um Pouco Sobre Mim
 Bom, meu nome é Igor,  
-sou Desenvolvedor PHP, cursando 8º semestre de Sistemas de Informação e um bom nerd.  
+sou Desenvolvedor de Sistemas, cursando 8º semestre de Sistemas de Informação e um bom nerd.  
 Contribuo para a comunidade escrevendo alguns artigos no [Medium](https://medium.com/@igorsantos17) e realizando algumas palestras e talks.   
-Evangelista PHP, membro ativo da comunidade e um dos coordenadores do [PHPRS](https://www.meetup.com/pt-BR/PHP-RS/).      
+Evangelista PHP, membro ativo da comunidade e coordenador do [PHPRS](https://www.meetup.com/pt-BR/PHP-RS/).      
 
 
 Possuo experiência na análise, arquitetura e desenvolvimento de soluções web.  
@@ -22,7 +22,7 @@ Já atuei em vários projetos utilizando diversas tecnologias como PHP, C#.NET e
 Especialista em PHP e toda sua stack de tecnologia.  
 Tenho grande flexibilidade em trocar de tecnologias e as compreendo rapidamente, devido a alta rotatividade de projetos em que participo.  
 Grande entusiasta de comunidades, eventos e inclusão social!  
-Também gasto algum tempo estudando novas tecnologias.  
+Também gasto algum tempo estudando novas tecnologias e estou sempre em busca de novos conhecimentos e desafios!  
 Nas horas livres, curto assistir um seriado ou jogar um game!!
 
 <a href="https://certificacao.imasters.com.br/certificates/1450">
@@ -30,54 +30,73 @@ Nas horas livres, curto assistir um seriado ou jogar um game!!
 </a>
 
 ## Stack que já Atuei
-- PHP
-- CodeIgniter Framework
-- Laravel Framework
-- Slim Framework
-- Composer
-- PHPUnit
-- C#.NET
-- Linq Framework
-- Entity Framework
-- SQL
-- HTML5 e CSS3
-- Bootstrap
-- Bower
-- Javascript
-- AngularJS
-- Node.js
-- Gulp.js
-- Testes Unitários e TDD
-- WebServices
-- Git
-- Docker
-- OpenShift
-- Jenkins
-- Scrum, XP e Kanban
-- Design Patterns
-- Arquitetura de Software
-- Linha de Comando
-- Linux
-- Inglês intermediário
-- Facilidade e disposição para aprender o que não estiver nessa lista! :)
+
+* BackEnd  
+> PHP, Frameworks: CodeIgniter / Laravel / Slim, Composer, PHPUnit, CodeCeption  
+> C#.NET, Framewowks: Linq, Entity  
+> Node.js, Express  
+> Testes Unitários, Desenvolvimento de APIs, WebServices.  
+
+* FrontEnd
+> HTML5, CSS3, Frameworks: Boostrap / Materialize, Javascript, JQuery, Bower, Gulp, WebPack  
+> Frameworks: AngularJS, Angular 6+, Vue.js
+
+* Database
+> Mysql, Oracle, SQLServer e  NoSQL(Redis)
+
+* Infra
+> Git (GitHub, GitLab, BitButck), Docker, OpenShift, Jenkins, AzureDevops
+
+* Metodologias  
+> SCRUM, XP e Kanban  
+
+* Outras Habilidades / Conhecimentos
+> Design Patterns, Arquitetura de Software, Microserviços, Migração de Sistemas Legados  
+> Linha de Comando, Linux
+
+* Idiomas
+> Inglês intermediário
 
 ## Experiências
-**Datum TI** - Desenvolvedor PHP Sênior
-> Responsável por decisões de engenharia e arquitetura em projetos que atuo.  
-> Atuando na Análise e Desenvolvimento de aplicações utilizando PHP, Laravel framework, Angular, entre outras tecnologias. 
+**DBC Company** - Senior Software Developer  
+*Julho de 2019 até o momento*
 
-> Desenvolvimento focado na metodologia ágil SCRUM utilizando Kanban para gerenciar as atividades.   
+> Cliente: Edenred/TicketLog  
+Migração do sistema legado Portal Rede para uma nova plataforma, utilizando metodologia ágil.  
+Atuando na análise de requisitos e desenvolvimento utilizando Java EE, ColdFusion 11, PL/SQL,
+HTML5, CSS3, Bootstrap, JavaScript e JQuery com banco de dados Oracle e Sybase.  
+Controle de versão e Integração Contínua com Azure DevOps.
+
+**Datum TI** - Desenvolvedor PHP / Digital Developer  
+*Março de 2019 a Julho de 2019 (5 meses)*
+
+> Cliente: Hogarth Worldwide - Digital Developer  
+*Junho de 2019 a Julho de 2019 (2 meses)*
+>
+> Migração da aplicação interna de gerenciamento da empresa para um novo ERP em um ambiente ágil.    
+Utilizando arquitetura de microserviços com Docker e construindo serviços com PHP7, Laravel, Lumen, Vue.js, Redis e PostgreSQL.  
+Integração Contínua e deploy com BitBucket, GitFlow e Jenkins.
+
+> Cliente: Estrutural - Desenvolvedor PHP  
+*Março de 2019 a Maio de 2019 (3 meses)*  
+>
+> Responsável por decisões de engenharia e arquitetura dos projetos.  
+Atuando na Análise e Desenvolvimento de aplicações utilizando PHP, Laravel framework e Angular.  
+>
+> Desenvolvimento focado na metodologia ágil SCRUM utilizando Kanban para gerenciar as atividades.  
 Aplicação de testes unitários nos projetos, controle de versão com Git+GitHub e integração contínua com Jenkins.
 
 
-**Navalha Digital** - Full Stack Web Developer
+**Navalha Digital** - Full Stack Web Developer  
+*Setembro de 2018 a Março de 2019 (7 meses)*
 > Responsável pela pesquisa e implementação de padrões arquiteturais e engenharia de software.   
 Atuando no desenvolvimento de sistemas Web utilizando Stack PHP.   
 
 > Coordenação de desenvolvedores (terceiros) para implementação de projetos.
 
 
-**PAC Administração de Créditos** - Desenvolvedor Web
+**PAC Administração de Créditos** - Desenvolvedor Web  
+*Fevereiro de 2018 a Setembro de 2018 (8 meses)*
 > Responsável pelo desenvolvimento de novas funcionalidades, novas telas e novos módulos do sistema legado de crédito consignado  
 e também pelo desenvolvimento de novos sistemas de uso interno utilizando PHP.  
 
@@ -85,7 +104,8 @@ e também pelo desenvolvimento de novos sistemas de uso interno utilizando PHP.
 
 > Responsável pela implementação de versionamento de código utilizando GitLab e integração contínua com Jenkins.
 
-**Grubo RBS** - Desenvolvedor Web
+**Grubo RBS** - Desenvolvedor Web  
+*Março de 2016 a Fevereiro de 2018 (2 anos)*
 > Atuação no desenvolvimento de análises e arquiteturas para sistemas.  
 
 > Desenvolvimento de soluções web que sejam criativas e alinhadas com as necessidades do cliente,  
@@ -97,10 +117,44 @@ utilizando diversar tecnologias do mercado como PHP/Laravel/Wordpress, C#.NET, J
 
 > Disponibilidade de ambientes utilizando Docker.
 
-**ULBRA** - Bolsista em Desenvolvimento e Novas Tecnologias
+**ULBRA** - Bolsista em Desenvolvimento e Novas Tecnologias  
+*Junho de 2015 a Novembro de 2015 (6 meses)*
 > Atuação no desenvolvimento de Blogs e portais utilizando PHP e Wordpress utilizando banco de dados MySQL.
 
 > Pesquisa de novas tecnologias no âmbito educacional.
+
+**Estagiário de Desenvolvimento Web** - Superintendência de Portos e Hidrovias - SPH  
+*Julho de 2014 a Dezembro de 2014 (6 meses)*
+> Desenvolvimento de sites utilizando HTML5, CSS, JavaScript e JQuery.  
+E sistemas web com PHP 5.6 e banco MySQL.
+
+> Obs: Estágio obrigatório exigido pela universidade.
+
+**IR Connect** - Desenvolvedor Web  
+*Julho de 2013 a Julho de 2014 (1 ano)*
+> Desenvolvimento de sites utilizando HTML5, CSS, JavaScript e JQuery.
+E sistemas web com PHP 5.6 e banco MySQL.
+
+
+## Trabalhos Voluntários
+**PHPRS** 
+> Arquiteto PHP (*Maio de 2018 até o momento*)  
+Atuação na arquitetura e desenvolvimento do novo portal da comunidade e do novo sistema da conferência.  
+Bem como projetos para comunidade e workshops.
+
+> Coordenador (*Maio de 2018 até o momento*)  
+Atuo como coordenador da comunidade PHPRS,
+Organizando e realizando os Meetups, que são encontros mensais e também a PHPRS Conference.
+>
+> Links:  
+> Meetup: [meetup.com/pt-BR/PHP-RS](meetup.com/pt-BR/PHP-RS)  
+> Site: [https://www.phprs.com.br/](https://www.phprs.com.br/)  
+> Conf [https://conference.phprs.com.br/](https://conference.phprs.com.br/)
+
+> Evangelista (*Março de 2017 até o momento*)  
+Como evangelista, ajudo membros tirando dúvidas e a divulgar a linguagem bem como a comunidade.  
+Além disso, atuo realizando palestras e ministrando oficinas de programação em PHP.
+
 
 ## Formação Acadêmica
 **ULBRA** - Bacharel em Sistemas de Informação
@@ -109,7 +163,7 @@ utilizando diversar tecnologias do mercado como PHP/Laravel/Wordpress, C#.NET, J
 **ULBRA/ILULBRA** - Curso de Lingua Inglesa 
 > Nível VI
 
-## Cursos
+## Certificados
 - [SCRUM - TreinaWeb](https://drive.google.com/file/d/0B9Jduql5E7H5NDZpZTVnUlpmbW8/view)
 - [PHP Padrões de Projetos - TreinaWeb](https://drive.google.com/file/d/0B9Jduql5E7H5ZTZ0TG9oMXZQd1E/view)
 - [Banco de Dados e Linguagem SQL - UNISINOS](https://drive.google.com/file/d/0B9Jduql5E7H5ZkdqaHlpMXd4QU0/view)
