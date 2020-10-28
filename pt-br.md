@@ -12,7 +12,7 @@
 ## Um Pouco Sobre Mim
 Bom, meu nome é Igor,  
 sou Desenvolvedor de Sistemas, cursando Análise e Desenvolvimento de Sistemas na Unisinos.  
-Contribuo para a comunidade escrevendo artigos técnicos nas áreas de Desenvolvimento e Engenharia de Software (através do [Medium](https://medium.com/@igorsantos17) e realizo algumas palestras em eventos.
+Contribuo para a comunidade escrevendo artigos técnicos nas áreas de Desenvolvimento e Engenharia de Software (através do [Medium](https://medium.com/@igorsantos17)) e realizo algumas palestras em eventos.
 Evangelista PHP, membro ativo da comunidade e coordenador do [PHPRS](https://www.meetup.com/pt-BR/PHP-RS/).  
 
 Trabalho na área de desenvolvimento já fazem 7 anos e possuo experiência na análise, arquitetura e desenvolvimento de soluções web.
@@ -54,7 +54,7 @@ Atualmente tenho dedicado meu tempo e estudos para a área de engenharia e Arqui
 
 ## Experiências
 **Appmax** - DEsenvolvedor Full Stack  
-*Maio de 201o até o momento*
+*Maio de 2020 até o momento*
 > Atuação no desenvolvimento da plataforma de soluções de pagamentos para e-commerce integrada para otimizar a performance nas vendas.  
 Atuando também nas integrações com APIs de terceiros, na automatização de processos e otimização das aplicações para manter uma melhor performance, eficiência e garantir alta disponibilidade.  
 
