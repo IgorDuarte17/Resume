@@ -11,18 +11,14 @@
 
 ## Um Pouco Sobre Mim
 Bom, meu nome é Igor,  
-sou Desenvolvedor de Sistemas, cursando 8º semestre de Sistemas de Informação e um bom nerd.  
-Contribuo para a comunidade escrevendo alguns artigos no [Medium](https://medium.com/@igorsantos17) e realizando algumas palestras e talks.   
-Evangelista PHP, membro ativo da comunidade e coordenador do [PHPRS](https://www.meetup.com/pt-BR/PHP-RS/).      
+sou Desenvolvedor de Sistemas, cursando Análise e Desenvolvimento de Sistemas na Unisinos.  
+Contribuo para a comunidade escrevendo artigos técnicos nas áreas de Desenvolvimento e Engenharia de Software (através do [Medium](https://medium.com/@igorsantos17) e realizo algumas palestras em eventos.
+Evangelista PHP, membro ativo da comunidade e coordenador do [PHPRS](https://www.meetup.com/pt-BR/PHP-RS/).  
 
-
-Possuo experiência na análise, arquitetura e desenvolvimento de soluções web.  
-Já atuei em vários projetos utilizando diversas tecnologias como PHP, C#.NET e Node.js.  
-Especialista em PHP e toda sua stack de tecnologia.  
-Tenho grande flexibilidade em trocar de tecnologias e as compreendo rapidamente, devido a alta rotatividade de projetos em que participo.  
-Grande entusiasta de comunidades, eventos e inclusão social!  
-Também gasto algum tempo estudando novas tecnologias e estou sempre em busca de novos conhecimentos e desafios!  
-Nas horas livres, curto assistir um seriado ou jogar um game!!
+Trabalho na área de desenvolvimento já fazem 7 anos e possuo experiência na análise, arquitetura e desenvolvimento de soluções web.
+Já atuei em vários projetos utilizando diversas tecnologias como PHP, C#.NET, Node.js, Vue.js, Angular e Docker. Também atuei em projetos com diferentes arquiteturas e tamanhos.
+Cada vez mais venho procurando me especializar em PHP e toda sua stack de tecnologia e também sou grande entusiasta de comunidades e eventos, sempre procurando participar e contribuir!
+Atualmente tenho dedicado meu tempo e estudos para a área de engenharia e Arquitetura de software a qual sou grande entusiasta e pretendo me especializar.
 
 <a href="https://certificacao.imasters.com.br/certificates/1450">
   <img src="https://certificacao.imasters.com.br/certificates/1450/email_seal" />
@@ -31,20 +27,20 @@ Nas horas livres, curto assistir um seriado ou jogar um game!!
 ## Stack que já Atuei
 
 * BackEnd  
-> PHP, Frameworks: CodeIgniter / Laravel / Slim, Composer, PHPUnit, CodeCeption  
+> PHP, Frameworks: CodeIgniter, Laravel, Slim, Composer, PHPUnit, CodeCeption  
 > C#.NET, Framewowks: Linq, Entity  
 > Node.js, Express  
 > Testes Unitários, Desenvolvimento de APIs, WebServices.  
 
 * FrontEnd
-> HTML5, CSS3, Frameworks: Boostrap / Materialize, Javascript, JQuery, Bower, Gulp, WebPack  
+> HTML5, CSS3, Frameworks Bootstrap e Materialize, Javascript, JQuery, Bower, Gulp, WebPack  
 > Frameworks: AngularJS, Angular 6+, Vue.js
 
 * Database
 > Mysql, Oracle, SQLServer e  NoSQL(Redis)
 
 * Infra
-> Git (GitHub, GitLab, BitButck), Docker, OpenShift, Jenkins, AzureDevops
+> Git (GitHub, GitLab, BitButck), Docker, OpenShift, Jenkins, AzureDevops, Amazon AWS
 
 * Metodologias  
 > SCRUM, XP e Kanban  
@@ -57,8 +53,20 @@ Nas horas livres, curto assistir um seriado ou jogar um game!!
 > Inglês intermediário
 
 ## Experiências
-**DBC Company** - Senior Software Developer  
-*Julho de 2019 até o momento*
+**Appmax** - DEsenvolvedor Full Stack  
+*Maio de 201o até o momento*
+> Atuação no desenvolvimento da plataforma de soluções de pagamentos para e-commerce integrada para otimizar a performance nas vendas.  
+Atuando também nas integrações com APIs de terceiros, na automatização de processos e otimização das aplicações para manter uma melhor performance, eficiência e garantir alta disponibilidade.  
+
+> Desenvolvimento utilizando a metodologia ágil SCRUM utilizando Kanban para gerenciamento das atividades.  
+Utilizando PHP (5.6, 7.x), Lavarel, node.js, Vue.js, Redis, Elasticsearch, MySQL, ShellScript e Linux.  
+Trabalhando também com o conceito de eventos e filas.  
+Prezando por boas práticas de design e clean code, assim como a realização de code review.  
+Aplicação de testes com PHPUnit e Codecepetion e controle de versão com BitBucket e GitFlow.  
+Disponibilidade de ambientes utilizando Docker e Amazon AWS.  
+
+**DBC Company** - Desenvolverdor de Sistemas  
+*Julho de 2019 a Abril de 2020*
 
 > Cliente: Edenred/TicketLog  
 Migração do sistema legado Portal Rede para uma nova plataforma, utilizando metodologia ágil.  
@@ -156,8 +164,8 @@ Além disso, atuo realizando palestras e ministrando oficinas de programação e
 
 
 ## Formação Acadêmica
-**ULBRA** - Bacharel em Sistemas de Informação
-> Cursando 8º Semestre
+**Unisinos** - Tecnólogo em Análise e Desenvolvimento de Sistemas
+> Cursando
 
 **ULBRA/ILULBRA** - Curso de Lingua Inglesa 
 > Nível VI
@@ -171,6 +179,7 @@ Além disso, atuo realizando palestras e ministrando oficinas de programação e
 - [Students to Business - Banco de Dados (SQL Server) - PUCRS](https://drive.google.com/file/d/0B9Jduql5E7H5ZUxFODJ5c3hlS0E/view)
 - [Laravel Framework - TreinaWeb](https://drive.google.com/file/d/0B9Jduql5E7H5aG1RNzJVaXp4VW8/view)
 - [Slim Framework - TreinaWeb](https://drive.google.com/file/d/0B9Jduql5E7H5M1MyWnM1TlE3RUU/)
+- [Vue.js - Criação de Interfaces Web - TreinaWeb](https://drive.google.com/file/d/1gec_FMOIhQjoJaOVmjFQv4hZ6kVnosV2/view)
 
 ## Alguns Projetos Legais
 
