@@ -2,8 +2,7 @@
 
 ## Onde Me Encontrar
 ![:](https://cdn3.iconfinder.com/data/icons/social-media-logos-flat-colorful-1/2048/5382_-_Outlook-20.png) [igors.d@hotmail.com](mailto:igors.d@hotmail.com)  
-![:](https://cdn2.iconfinder.com/data/icons/social-icon-3/512/social_style_3_in-20.png) [linkedin.com/in/igorsantoos](https://www.linkedin.com/in/igorsantoos)  
-![:](https://cdn0.iconfinder.com/data/icons/small-n-flat/24/678128-social-facebook-20.png) [facebook.com/IgoorSantoos17](https://www.facebook.com/IgoorSantoos17)  
+![:](https://cdn2.iconfinder.com/data/icons/social-icon-3/512/social_style_3_in-20.png) [linkedin.com/in/igorsantoos17](https://www.linkedin.com/in/igorsantoos17) 
 ![:](https://cdn1.iconfinder.com/data/icons/social-signature/512/Twitter_Color-20.png) [twitter.com/IgorSantoos17](https://www.twitter.com/IgorSantoos17)  
 ![:](https://cdn4.iconfinder.com/data/icons/ionicons/512/icon-social-github-20.png) [github.com/IgorSantos17](https://github.com/IgorSantos17)  
 ![:](https://cdn4.iconfinder.com/data/icons/picons-social/57/53-medium-3-20.png) [medium.com/@igorsantos17](https://medium.com/@igorsantos17)  
