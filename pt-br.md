@@ -53,7 +53,7 @@ Atualmente tenho dedicado meu tempo e estudos para a área de engenharia e Arqui
 > Inglês intermediário
 
 ## Experiências
-**Appmax** - DEsenvolvedor Full Stack  
+**Appmax** - Desenvolvedor Full Stack  
 *Maio de 2020 até o momento*
 > Atuação no desenvolvimento da plataforma de soluções de pagamentos para e-commerce integrada para otimizar a performance nas vendas.  
 Atuando também nas integrações com APIs de terceiros, na automatização de processos e otimização das aplicações para manter uma melhor performance, eficiência e garantir alta disponibilidade.  
